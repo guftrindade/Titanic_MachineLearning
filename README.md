@@ -16,6 +16,7 @@
   <img align="center" height="300" src="https://user-images.githubusercontent.com/67704261/119056911-e2bf6780-b9a1-11eb-8881-c48c64452372.png"/>
 </p> 
 
-
-
-
+## Primeiras linhas da tabela
+## Visualização dos dados
+## Acurácia dos Modelos
+## Previsão com melhor modelo
